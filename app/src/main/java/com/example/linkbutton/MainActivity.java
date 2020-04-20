@@ -29,5 +29,6 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(this,Link_Activity.class);
         startActivity(intent);
         //this is my test file
+        //hey what happens when i only commit but not push
     }
 }
